@@ -3,7 +3,7 @@ terraform {
 
   backend "remote" {
     hostname     = "app.terraform.io"
-    organization = "khuedoan"
+    organization = "Hogwarts-homelab-external"
 
     workspaces {
       name = "homelab-external"
@@ -31,6 +31,7 @@ terraform {
 provider "cloudflare" {
   email   = var.cloudflare_email
   api_key = var.cloudflare_api_key
+  zone = "0b64a09fcb4119a66d632c56065915d9"
 }
 
 provider "kubernetes" {

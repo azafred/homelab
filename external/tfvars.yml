@@ -9,6 +9,9 @@
     - name: cloudflare_account_id
       prompt: Enter Cloudflare account ID
       private: false
+    - name: cloudflare_zone
+      prompt: Enter Cloudflare zone
+      private: false
     - name: zerotier_central_token
       prompt: Enter ZeroTier Central API Token
   tasks:

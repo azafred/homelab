@@ -11,6 +11,10 @@ variable "cloudflare_account_id" {
   type = string
 }
 
+variable "cloudflare_zone" {
+  type = string
+}
+
 variable "zerotier_central_token" {
   type = string
 }

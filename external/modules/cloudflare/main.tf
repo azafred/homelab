@@ -1,5 +1,5 @@
 data "cloudflare_zone" "zone" {
-  name = "khuedoan.com"
+  name = "techunix.com"
 }
 
 data "cloudflare_api_token_permission_groups" "all" {}
@@ -75,6 +75,7 @@ resource "cloudflare_api_token" "external_dns" {
     }
   }
 }
+
 
 resource "kubernetes_secret" "external_dns_token" {
   metadata {

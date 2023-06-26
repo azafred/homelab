@@ -3,6 +3,7 @@ module "cloudflare" {
   cloudflare_account_id = var.cloudflare_account_id
   cloudflare_email      = var.cloudflare_email
   cloudflare_api_key    = var.cloudflare_api_key
+  cloudflare_zone       = var.cloudflare_zone
 }
 
 module "zerotier" {
@@ -12,3 +13,4 @@ module "zerotier" {
     "192.168.1.0/24" # TODO add this to configure script
   ]
 }
+

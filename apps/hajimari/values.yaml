@@ -9,7 +9,7 @@ hajimari:
         cert-manager.io/cluster-issuer: letsencrypt-prod
         hajimari.io/enable: 'false'
       hosts:
-        - host: &host home.khuedoan.com
+        - host: &host home.techunix.com
           paths:
             - path: /
               pathType: Prefix
@@ -25,9 +25,9 @@ hajimari:
       - group: Homelab
         bookmarks:
           - name: Documentation
-            url: https://homelab.khuedoan.com
+            url: https://homelab.techunix.com
           - name: Public GitHub repository
-            url: https://github.com/khuedoan/homelab
+            url: https://github.com/azafred/homelab
       - group: Managed services
         bookmarks:
           - name: Terraform Cloud

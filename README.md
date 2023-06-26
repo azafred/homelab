@@ -1,11 +1,11 @@
 # Khue's Homelab
 
-**[Features](#features) • [Get Started](#get-started) • [Documentation](https://homelab.khuedoan.com)**
+**[Features](#features) • [Get Started](#get-started) • [Documentation](https://homelab.techunix.com)**
 
-[![tag](https://img.shields.io/github/v/tag/khuedoan/homelab?style=flat-square&logo=semver&logoColor=white)](https://github.com/khuedoan/homelab/tags)
-[![document](https://img.shields.io/website?label=document&logo=gitbook&logoColor=white&style=flat-square&url=https%3A%2F%2Fhomelab.khuedoan.com)](https://homelab.khuedoan.com)
-[![license](https://img.shields.io/github/license/khuedoan/homelab?style=flat-square&logo=gnu&logoColor=white)](https://www.gnu.org/licenses/gpl-3.0.html)
-[![stars](https://img.shields.io/github/stars/khuedoan/homelab?logo=github&logoColor=white&color=gold&style=flat-square)](https://github.com/khuedoan/homelab)
+[![tag](https://img.shields.io/github/v/tag/azafred/homelab?style=flat-square&logo=semver&logoColor=white)](https://github.com/azafred/homelab/tags)
+[![document](https://img.shields.io/website?label=document&logo=gitbook&logoColor=white&style=flat-square&url=https%3A%2F%2Fhomelab.techunix.com)](https://homelab.techunix.com)
+[![license](https://img.shields.io/github/license/azafred/homelab?style=flat-square&logo=gnu&logoColor=white)](https://www.gnu.org/licenses/gpl-3.0.html)
+[![stars](https://img.shields.io/github/stars/azafred/homelab?logo=github&logoColor=white&color=gold&style=flat-square)](https://github.com/azafred/homelab)
 
 This project utilizes [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code) and [GitOps](https://www.weave.works/technologies/gitops) to automate provisioning, operating, and updating self-hosted services in my homelab.
 It can be used as a highly customizable framework to build your own homelab.
@@ -217,25 +217,25 @@ They can't capture all the project's features, but they are sufficient to get a 
 
 ## Get Started
 
-- [Try it out locally](https://homelab.khuedoan.com/installation/sandbox) without any hardware (just 4 commands!)
-- [Deploy on real hardware](https://homelab.khuedoan.com/installation/production/prerequisites) for production workload
+- [Try it out locally](https://homelab.techunix.com/installation/sandbox) without any hardware (just 4 commands!)
+- [Deploy on real hardware](https://homelab.techunix.com/installation/production/prerequisites) for production workload
 
 ## Roadmap
 
-See [roadmap](https://homelab.khuedoan.com/reference/roadmap) and [open issues](https://github.com/khuedoan/homelab/issues) for a list of proposed features and known issues.
+See [roadmap](https://homelab.techunix.com/reference/roadmap) and [open issues](https://github.com/azafred/homelab/issues) for a list of proposed features and known issues.
 
 ## Contributing
 
 Any contributions you make are greatly appreciated.
 
-Please see [contributing guide](https://homelab.khuedoan.com/reference/contributing) for more information.
+Please see [contributing guide](https://homelab.techunix.com/reference/contributing) for more information.
 
 ## License
 
 Copyright &copy; 2020 - 2022 Khue Doan
 
 Distributed under the GPLv3 License.
-See [license page](https://homelab.khuedoan.com/reference/license) or `LICENSE.md` file for more information.
+See [license page](https://homelab.techunix.com/reference/license) or `LICENSE.md` file for more information.
 
 ## Acknowledgements
 
@@ -273,4 +273,4 @@ If you feel you're missing from this list, feel free to add yourself in a PR.
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/khuedoan/homelab.svg)](https://starchart.cc/khuedoan/homelab)
+[![Stargazers over time](https://starchart.cc/azafred/homelab.svg)](https://starchart.cc/azafred/homelab)

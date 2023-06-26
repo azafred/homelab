@@ -16,17 +16,17 @@ repositories:
     owner: ops
     private: false
     migrate:
-      source: https://github.com/khuedoan/homelab
+      source: https://github.com/azafred/homelab
       mirror: false
     hook: true
   - name: blog
-    owner: khuedoan
+    owner: azafred
     migrate:
-      source: https://github.com/khuedoan/blog
+      source: https://github.com/azafred/blog
       mirror: true
     hook: true
   - name: backstage
-    owner: khuedoan
+    owner: azafred
     migrate:
-      source: https://github.com/khuedoan/backstage
+      source: https://github.com/azafred/backstage
       mirror: true

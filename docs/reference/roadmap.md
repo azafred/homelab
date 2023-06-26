@@ -75,7 +75,7 @@ Can be used in "production" (for family or even small scale businesses).
     - [ ] PeerTube
     - [x] Seafile
     - [x] Blog
-    - [ ] [Development dashboard](https://github.com/khuedoan/homelab-backstage)
+    - [ ] [Development dashboard](https://github.com/azafred/homelab-backstage)
 
 ## Unplanned
 
@@ -87,5 +87,5 @@ Nice to have
 - [ ] Automated testing
 - [ ] Security audit
 - [ ] Serverless ([Knative](https://knative.dev))
-- [ ] Cluster API ([last attempt](https://github.com/khuedoan/homelab/pull/2))
+- [ ] Cluster API ([last attempt](https://github.com/azafred/homelab/pull/2))
 - [ ] Split DNS (requires a better router)
